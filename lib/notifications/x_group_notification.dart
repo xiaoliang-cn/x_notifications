@@ -1,7 +1,8 @@
-import 'package:x_notifications/notifications/x_notification.dart';
+
+import '../x_notification.dart';
 
 class XGroupNotification {
-  //'com.xl.xpassword.WORK_EMAIL'...
+  //'com.xl.xnotification.WORK_EMAIL'...
   final String groupKey;
   final String groupChannelId;
   final String groupChannelName;

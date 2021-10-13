@@ -1,7 +1,6 @@
 import 'dart:math';
-
-final _defaultTitle = 'Xpassword';
-final _defaultSubtitle = "A new Xpassword Info";
+final _defaultTitle = 'xNotifications';
+final _defaultSubtitle = "A new xNotifications Info";
 
 class XNotification {
   final int id;

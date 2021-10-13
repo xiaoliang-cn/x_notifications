@@ -1,5 +1,5 @@
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
-import 'package:x_notifications/x_notification.dart';
+import '../x_notification.dart';
 
 ///x notification model
 abstract class XNotificationModel {
